@@ -1,3 +1,11 @@
-vou criar um fch na nuvem para depois o colocar no meu PC localmente!!!
+﻿vou criar um fch na nuvem para depois o colocar no meu PC localmente!!!
 When would you want to use a remote repository rather than keeping all your work local?
 r:não sei... vou pensar depois...
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+r:
+forks--> copia de repositorios na nuvem
+clones--> copia do repositorio da nuvem para o pc
+branches--> criaçao de novos caminhos no processo
+
+ 
