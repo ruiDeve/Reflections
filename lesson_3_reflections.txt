@@ -1,1 +1,3 @@
 vou criar um fch na nuvem para depois o colocar no meu PC localmente!!!
+When would you want to use a remote repository rather than keeping all your work local?
+r:não sei... vou pensar depois...
