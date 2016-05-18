@@ -8,4 +8,9 @@ forks--> copia de repositorios na nuvem
 clones--> copia do repositorio da nuvem para o pc
 branches--> criaçao de novos caminhos no processo
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+estou a trabalhar no projeto mais atualizado possivel e com as alterações introduzidas mais recentes.
+
+
+
  
